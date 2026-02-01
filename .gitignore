@@ -1,0 +1,21 @@
+# Python .gitignore
+
+# Virtual environments
+venv/
+
+# Uploads
+uploads/
+
+# IDE folders
+.idea/
+.vscode/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.egg-info/
+*.eggs/
+*.egg

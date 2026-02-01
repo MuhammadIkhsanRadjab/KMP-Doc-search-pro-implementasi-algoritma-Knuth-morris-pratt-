@@ -1,0 +1,3 @@
+Di sebuah badan penelitian lingkungan, laporan survei lapangan berisi deskripsi kondisi wilayah, jenis vegetasi, dan data kualitas air. Ketika peneliti ingin membandingkan kondisi antar tahun, mereka perlu menemukan laporan yang memuat istilah atau lokasi tertentu. Mencari secara manual di ratusan dokumen akan memakan waktu dan berisiko melewatkan data penting.
+
+Penerapan sistem pencarian teks memungkinkan peneliti memasukkan nama sungai, desa, atau parameter lingkungan tertentu. Dokumen yang mengandung kata-kata tersebut dapat dikelompokkan untuk dianalisis lebih lanjut. Hasilnya, tren perubahan lingkungan dapat dipantau dengan lebih akurat dari waktu ke waktu.

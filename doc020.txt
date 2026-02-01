@@ -1,0 +1,3 @@
+Di sebuah kantor akuntan, laporan keuangan klien disimpan dalam bentuk dokumen elektronik yang tersusun per tahun. Ketika klien meminta ringkasan transaksi terkait akun tertentu, staf akuntansi harus mencari kembali catatan yang sesuai di antara banyak laporan. Jika hanya mengandalkan nama file dan folder, proses pencarian bisa berlangsung lama dan melelahkan.
+
+Penerapan sistem pencarian berbasis isi dokumen memungkinkan staf akuntansi mencari berdasarkan nama akun, jenis transaksi, atau kata kunci lain yang biasa digunakan dalam laporan. Dengan demikian, mereka dapat dengan cepat menemukan bagian dokumen yang relevan tanpa harus membaca keseluruhan laporan. Hal ini meningkatkan efisiensi kerja dan mengurangi risiko kesalahan dalam penyampaian informasi kepada klien.

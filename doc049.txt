@@ -1,0 +1,3 @@
+Di sebuah pusat pelatihan guru, modul pelatihan dibuat dalam bentuk dokumen yang menjelaskan metode mengajar, contoh aktivitas, dan instrumen penilaian. Ketika ada kurikulum baru, fasilitator ingin mencari kembali modul yang membahas pendekatan serupa untuk dijadikan dasar revisi. Tanpa bantuan pencarian isi, mereka harus membuka banyak file satu per satu.
+
+Dengan adanya sistem pencarian berbasis kata kunci, fasilitator dapat mengetik istilah seperti "pembelajaran aktif", "penilaian autentik", atau "diskusi kelompok". Dokumen yang mengandung istilah tersebut dapat segera ditandai sebagai bahan rujukan. Pendekatan ini mempermudah proses penyesuaian modul dengan kebijakan kurikulum terbaru.

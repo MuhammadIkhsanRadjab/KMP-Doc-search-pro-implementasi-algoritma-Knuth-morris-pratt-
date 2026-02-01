@@ -1,0 +1,3 @@
+Sebuah bank menyimpan ringkasan transaksi nasabah dalam bentuk dokumen laporan bulanan. Setiap laporan memuat rincian setoran, penarikan, dan biaya administrasi yang dikenakan. Ketika terjadi selisih saldo, petugas layanan perlu mencari kembali dokumen yang menjelaskan transaksi tertentu sesuai keluhan nasabah.
+
+Dengan bantuan sistem pencarian isi dokumen, petugas cukup memasukkan kata kunci seperti jenis transaksi atau tanggal tertentu. Sistem akan menampilkan dokumen yang memuat informasi tersebut sehingga proses penelusuran menjadi lebih cepat. Hal ini membantu bank memberikan pelayanan yang lebih responsif tanpa harus membuka seluruh laporan secara manual.

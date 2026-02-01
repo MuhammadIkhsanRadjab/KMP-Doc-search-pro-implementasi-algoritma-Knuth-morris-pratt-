@@ -1,0 +1,3 @@
+Di sebuah organisasi keagamaan, teks ceramah dan materi kajian disimpan dalam bentuk dokumen digital agar mudah dibagikan kepada jamaah. Seiring bertambahnya koleksi, pengurus ingin menghindari pengulangan tema yang sama terlalu sering. Mereka perlu mencari kembali dokumen yang membahas ayat atau topik tertentu sebelum menyusun materi baru.
+
+Sistem pencarian isi dokumen memungkinkan pengurus memasukkan kata kunci seperti nama surah, tema akhlak, atau istilah keagamaan tertentu. Dokumen yang memuat kata-kata ini dapat ditinjau untuk melihat apakah tema tersebut sudah banyak dibahas. Dengan demikian, materi kajian dapat diatur agar lebih bervariasi dan menyentuh berbagai aspek kehidupan.

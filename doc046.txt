@@ -1,0 +1,3 @@
+Sebuah perusahaan startup menyimpan notulen rapat mingguan dalam dokumen digital yang dibagi berdasarkan tanggal. Notulen tersebut berisi keputusan, ide fitur baru, dan daftar tugas untuk setiap anggota tim. Ketika ingin meninjau kembali bagaimana sebuah keputusan diambil, anggota tim harus mencari notulen yang memuat topik tertentu.
+
+Dengan fitur pencarian berdasarkan kata kunci, anggota tim cukup mengetik nama fitur, nama klien, atau topik pembahasan. Sistem akan menampilkan dokumen notulen yang relevan sehingga riwayat diskusi dapat ditelusuri dengan cepat. Cara ini membantu menjaga transparansi dan akuntabilitas dalam proses pengambilan keputusan.

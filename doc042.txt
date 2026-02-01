@@ -1,0 +1,3 @@
+Sebuah perusahaan konsultan manajemen menyimpan hasil studi kasus klien dalam dokumen digital yang terorganisasi per sektor industri. Setiap dokumen menjelaskan masalah bisnis, metode analisis, dan rekomendasi strategi. Ketika tim ingin menyusun presentasi untuk calon klien baru, mereka perlu mencari contoh kasus yang mirip dengan situasi yang sedang dihadapi.
+
+Fitur pencarian isi dokumen memungkinkan tim memasukkan kata kunci seperti "rantai pasok", "efisiensi operasional", atau "transformasi digital". Dokumen yang memuat kata-kata tersebut dapat dijadikan referensi untuk menyusun argumen yang lebih meyakinkan. Hal ini membantu perusahaan konsultan menunjukkan pengalaman relevan tanpa harus menghafal semua proyek sebelumnya.

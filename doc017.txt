@@ -1,0 +1,3 @@
+Seorang dosen menyimpan bahan kuliah, catatan kelas, dan tugas mahasiswa dalam beberapa folder di komputer pribadinya. Ketika akan menyiapkan materi untuk semester berikutnya, ia ingin menemukan kembali penjelasan tertentu yang pernah ia tulis tentang sebuah konsep sulit. Namun, ia tidak mengingat di file mana penjelasan tersebut disimpan, karena penamaan file dilakukan secara tergesa-gesa.
+
+Jika tersedia aplikasi pencarian yang mampu menelusuri isi dokumen, dosen cukup mengetik beberapa kata kunci yang menggambarkan konsep tersebut. Sistem akan mencari di seluruh dokumen dan menampilkan file yang mengandung kalimat yang relevan. Dengan demikian, dosen dapat memperbarui materi kuliah dengan lebih mudah tanpa harus menyusun ulang penjelasan dari awal.

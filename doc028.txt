@@ -1,0 +1,3 @@
+Di sebuah institusi pendidikan, panduan akademik dan peraturan kampus dikumpulkan dalam dokumen digital yang dibagikan kepada mahasiswa. Ketika ada perubahan kebijakan, bagian administrasi perlu memastikan bahwa seluruh dokumen terkait telah diperbarui. Mencari satu per satu file yang menyebutkan aturan tertentu menjadi pekerjaan yang melelahkan jika dilakukan secara manual.
+
+Dengan menerapkan sistem pencarian teks, staf administrasi dapat mencari kata kunci yang berkaitan dengan pasal atau istilah tertentu, misalnya "cuti akademik" atau "plagiarisme". Dokumen yang memuat istilah tersebut akan muncul di hasil pencarian, sehingga mudah diidentifikasi mana yang perlu direvisi. Cara ini membantu menjaga konsistensi informasi yang diterima mahasiswa.

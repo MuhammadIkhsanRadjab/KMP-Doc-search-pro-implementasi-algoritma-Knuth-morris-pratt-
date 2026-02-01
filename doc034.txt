@@ -1,0 +1,3 @@
+Sebuah perusahaan perangkat keras menyimpan manual teknis produk dalam beberapa bahasa, termasuk bahasa Indonesia. Setiap manual menjelaskan spesifikasi, cara instalasi, dan prosedur pemeliharaan. Ketika pelanggan menghubungi layanan purna jual, teknisi perlu mencari bagian manual yang relevan dengan keluhan yang disampaikan.
+
+Dengan adanya fitur pencarian isi dokumen, teknisi dapat memasukkan kata kunci seperti nama komponen, kode error, atau jenis gangguan. Sistem akan menyoroti dokumen dan bagian teks yang mengandung kata tersebut sehingga teknisi dapat memberikan panduan yang tepat. Hal ini meningkatkan kecepatan dan akurasi layanan kepada pelanggan.

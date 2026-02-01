@@ -1,0 +1,3 @@
+Di sebuah biro perjalanan, detail paket wisata disimpan dalam dokumen yang memuat informasi destinasi, jadwal, dan fasilitas yang ditawarkan. Ketika calon pelanggan menanyakan paket dengan kriteria khusus, staf pemasaran sering perlu mencari kembali dokumen yang sesuai dari arsip lama. Jika hanya mengandalkan nama file, banyak paket menarik yang tidak segera ditemukan.
+
+Dengan sistem pencarian kata kunci, staf dapat memasukkan nama kota, jenis kegiatan, atau kisaran harga yang disebutkan di dalam dokumen. Sistem kemudian akan menampilkan daftar paket wisata yang mengandung kata kunci tersebut. Hal ini membuat proses penawaran kepada pelanggan menjadi lebih cepat dan tepat sasaran.

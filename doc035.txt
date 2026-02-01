@@ -1,0 +1,3 @@
+Di sebuah organisasi internasional, laporan kegiatan dari berbagai negara dikirim dalam bentuk dokumen digital ke kantor pusat. Laporan tersebut berisi data statistik, cerita lapangan, dan rekomendasi kebijakan. Ketika tim pusat ingin menyusun ringkasan global, mereka harus menelusuri banyak dokumen yang datang dari berbagai wilayah.
+
+Penggunaan sistem pencarian kata kunci memungkinkan tim memasukkan istilah yang berkaitan dengan tema tertentu, seperti "pendidikan anak" atau "ketahanan pangan". Dokumen yang memuat istilah tersebut dapat dikumpulkan dan dianalisis bersama. Dengan cara ini, organisasi dapat mengidentifikasi tren dan menyusun rekomendasi yang lebih komprehensif.

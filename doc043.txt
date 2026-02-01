@@ -1,0 +1,3 @@
+Di sebuah kantor pengembang gim, ide cerita dan konsep karakter dicatat dalam dokumen brainstorming yang dibuat setiap awal proyek. Setelah beberapa bulan, tumpukan dokumen tersebut menjadi sulit dilacak ketika tim ingin menghidupkan kembali ide lama yang sempat ditunda. Penamaan file yang kreatif justru membuat pencarian manual menjadi membingungkan.
+
+Dengan adanya sistem pencarian berbasis teks, desainer cerita dapat memasukkan nama karakter, lokasi fiktif, atau tema konflik yang pernah didiskusikan. Sistem akan mencari kata-kata tersebut di dalam isi dokumen sehingga ide lama dapat ditemukan dan dikembangkan kembali. Pendekatan ini mencegah hilangnya gagasan menarik yang pernah muncul dalam proses kreatif.

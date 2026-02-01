@@ -1,0 +1,3 @@
+Sebuah organisasi non-profit sering menyusun laporan kegiatan dan proposal pendanaan untuk berbagai program sosial. Setiap laporan berisi data penerima manfaat, jenis kegiatan, dan hasil yang dicapai dalam periode tertentu. Ketika ingin menyusun proposal baru, staf administrasi sering kali perlu mencari contoh kalimat atau data dari laporan sebelumnya sebagai bahan acuan.
+
+Dengan adanya sistem pencarian dokumen berbasis kata kunci, staf dapat menemukan kembali laporan yang mengandung istilah tertentu seperti nama daerah, jenis program, atau indikator keberhasilan. Sistem ini membantu mereka mengumpulkan informasi penting tanpa harus membuka semua file satu per satu. Akhirnya, penyusunan proposal menjadi lebih cepat dan konsisten dengan laporan yang sudah pernah dibuat.

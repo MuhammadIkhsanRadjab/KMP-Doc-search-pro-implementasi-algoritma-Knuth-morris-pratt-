@@ -1,0 +1,4 @@
+Sebuah pusat pelatihan menyelenggarakan berbagai workshop dan seminar yang materinya dibagikan dalam bentuk dokumen digital. Peserta sering meminta kembali materi lama ketika mereka ingin mengulang topik tertentu setelah acara selesai. Staf administrasi harus menelusuri banyak folder untuk menemukan dokumen yang sesuai dengan permintaan peserta.
+
+Untuk mengurangi beban kerja manual, pusat pelatihan tersebut mengembangkan fitur pencarian dokumen yang memanfaatkan kata kunci di dalam isi file. Peserta atau staf cukup memasukkan nama topik, pembicara, atau istilah penting yang ada di materi. Sistem kemudian akan menampilkan daftar dokumen yang cocok sehingga permintaan peserta dapat dipenuhi dengan cepat.
+

@@ -1,0 +1,3 @@
+Di sebuah instansi pendidikan, laporan akreditasi program studi disusun dalam dokumen panjang yang memuat berbagai standar penilaian. Ketika masa akreditasi berikutnya mendekat, tim penyusun perlu meninjau kembali laporan lama untuk melihat poin-poin yang harus diperbaiki. Menelusuri laporan secara manual berisiko membuat beberapa aspek penting terlewat.
+
+Dengan adanya sistem pencarian isi dokumen, tim dapat memasukkan nama standar atau indikator tertentu untuk menemukan bagian laporan yang relevan. Mereka dapat dengan cepat melihat apakah rekomendasi sebelumnya sudah ditindaklanjuti atau belum. Hal ini membantu mempersiapkan dokumen akreditasi baru dengan lebih terarah.

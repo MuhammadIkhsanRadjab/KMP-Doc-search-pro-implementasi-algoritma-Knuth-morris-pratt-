@@ -1,0 +1,3 @@
+Di sebuah lembaga penelitian kebijakan publik, laporan analisis disusun dalam dokumen panjang yang membahas berbagai isu sosial dan ekonomi. Setiap laporan mengandung banyak istilah teknis yang berkaitan dengan indikator pembangunan. Ketika peneliti baru bergabung, mereka sering kesulitan mencari laporan yang membahas isu tertentu karena hanya mengandalkan judul.
+
+Penerapan sistem pencarian berbasis kata kunci memungkinkan peneliti mencari dokumen berdasarkan istilah yang muncul di dalam isi laporan, misalnya "ketimpangan pendapatan" atau "akses layanan kesehatan". Dengan cara ini, peneliti dapat dengan cepat menemukan referensi yang relevan tanpa harus membaca seluruh arsip dari awal. Hal ini mempercepat proses penyusunan kajian baru.

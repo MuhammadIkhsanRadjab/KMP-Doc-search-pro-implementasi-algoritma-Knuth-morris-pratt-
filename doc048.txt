@@ -1,0 +1,3 @@
+Sebuah perusahaan e-commerce menyimpan dokumentasi teknis API dalam dokumen digital yang diperbarui setiap kali terjadi perubahan layanan. Pengembang internal dan mitra membutuhkan akses cepat ke penjelasan parameter dan contoh permintaan. Namun, jika dokumentasi tidak dilengkapi fitur pencarian, pengguna harus menggulir panjang untuk menemukan bagian yang mereka butuhkan.
+
+Dengan sistem pencarian teks, pengembang dapat memasukkan nama endpoint, kode status, atau kata kunci lain yang berkaitan dengan fungsi tertentu. Sistem akan langsung menampilkan bagian dokumentasi yang relevan sehingga integrasi dapat dilakukan lebih efisien. Hal ini mengurangi kesalahan implementasi dan mempercepat proses pengembangan.

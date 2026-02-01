@@ -1,0 +1,3 @@
+Sebuah komunitas pengembang aplikasi berbagi dokumentasi proyek mereka melalui repositori bersama. Setiap proyek memiliki dokumen yang menjelaskan arsitektur sistem, antarmuka, dan skenario penggunaan. Anggota baru sering kesulitan memahami proyek lama karena tidak tahu di mana harus mulai membaca.
+
+Fitur pencarian isi dokumen membantu anggota komunitas menemukan penjelasan yang mereka butuhkan dengan memasukkan kata kunci tertentu, misalnya nama modul atau teknologi yang digunakan. Dengan demikian, mereka dapat langsung menuju bagian dokumentasi yang paling relevan bagi tugas yang sedang dikerjakan. Ini mempercepat proses adaptasi anggota baru dalam tim.

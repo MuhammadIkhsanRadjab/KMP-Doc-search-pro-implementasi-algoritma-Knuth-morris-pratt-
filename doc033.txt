@@ -1,0 +1,3 @@
+Di sebuah kantor notaris, draft akta dan dokumen pendukung disimpan dalam bentuk file digital yang dikelompokkan berdasarkan jenis layanan. Namun, dalam praktiknya, beberapa dokumen berisi klausul khusus yang hanya digunakan pada kasus tertentu. Ketika notaris ingin mencari kembali contoh klausul tersebut, ia tidak selalu ingat di berkas mana klausa itu tertulis.
+
+Dengan menerapkan sistem pencarian dokumen berdasarkan kata kunci, notaris dapat mengetik frasa tertentu yang menjadi ciri klausul tersebut. Sistem kemudian akan menampilkan dokumen yang memuat frasa itu, sehingga notaris dapat meninjau kembali dan menyesuaikan isinya untuk kasus baru. Pendekatan ini mengurangi risiko kesalahan penulisan dan mempercepat proses penyusunan akta.

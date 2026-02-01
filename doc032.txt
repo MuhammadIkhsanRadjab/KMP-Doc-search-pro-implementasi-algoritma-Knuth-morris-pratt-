@@ -1,0 +1,3 @@
+Sebuah lembaga sertifikasi profesi menyusun soal ujian dan kunci jawabannya dalam dokumen terpisah. Seiring waktu, koleksi soal menjadi sangat banyak dan mencakup berbagai tingkat kesulitan. Ketika tim penyusun ingin memperbarui bank soal, mereka perlu mencari kembali pertanyaan yang menguji kompetensi tertentu.
+
+Sistem pencarian teks membantu tim dengan memungkinkan mereka memasukkan kata kunci yang berkaitan dengan topik atau kompetensi yang diuji. Dokumen yang mengandung kata tersebut akan muncul di hasil pencarian sehingga lebih mudah dipilih untuk disalin, dimodifikasi, atau diganti. Dengan cara ini, pembaruan soal dapat dilakukan secara berkala tanpa mengulang semuanya dari nol.

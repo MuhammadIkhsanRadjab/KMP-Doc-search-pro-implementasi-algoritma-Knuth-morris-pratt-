@@ -1,0 +1,3 @@
+Di sebuah perusahaan telekomunikasi, catatan percakapan dengan pelanggan disimpan dalam dokumen ringkasan setiap panggilan. Dokumen-dokumen ini berisi masalah yang dilaporkan, langkah pemecahan, dan tindak lanjut yang disepakati. Ketika perusahaan ingin menganalisis pola keluhan, tim analisis data perlu menemukan kembali dokumen yang memuat kata atau frasa tertentu.
+
+Dengan adanya sistem pencarian berdasarkan isi dokumen, tim dapat memasukkan kata kunci seperti jenis gangguan atau nama layanan. Sistem akan mengumpulkan dokumen yang relevan sehingga analisis dapat dilakukan dengan lebih terarah. Hasil analisis ini kemudian digunakan untuk meningkatkan kualitas layanan kepada pelanggan.

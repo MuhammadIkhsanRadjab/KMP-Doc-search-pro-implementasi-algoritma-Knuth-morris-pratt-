@@ -1,0 +1,3 @@
+Sebuah universitas menyusun panduan penulisan tugas akhir dalam dokumen digital yang diperbarui secara berkala. Panduan ini mencakup aturan format, gaya sitasi, dan etika penulisan ilmiah. Ketika terjadi revisi pada satu bagian kecil, seperti aturan penomoran tabel atau kutipan, tidak semua mahasiswa menyadari perubahan tersebut.
+
+Dengan sistem pencarian isi dokumen, mahasiswa dapat dengan mudah mencari kata kunci seperti "daftar pustaka", "tabel", atau "kutipan tidak langsung". Mereka bisa langsung menuju bagian yang relevan tanpa membaca seluruh dokumen dari awal. Hal ini membantu mahasiswa mematuhi aturan penulisan dengan lebih tepat.

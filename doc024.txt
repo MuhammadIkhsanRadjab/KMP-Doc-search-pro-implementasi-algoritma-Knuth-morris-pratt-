@@ -1,0 +1,3 @@
+Di sebuah redaksi media online, penulis dan editor menyimpan naskah berita, artikel opini, dan wawancara dalam bentuk dokumen digital. Ketika ingin menulis lanjutan dari sebuah isu, jurnalis perlu mencari artikel lama yang memuat konteks atau kutipan tertentu. Tanpa alat bantu, mereka harus mengingat secara kasar waktu terbit dan membuka arsip satu demi satu.
+
+Dengan adanya sistem pencarian teks, jurnalis cukup mengetik kata kunci yang terkait dengan nama tokoh, tempat kejadian, atau topik pemberitaan. Sistem akan mencari kata tersebut di dalam isi dokumen dan menampilkan artikel yang relevan. Fitur ini mempermudah redaksi menjaga konsistensi pemberitaan dan menghindari pengulangan informasi yang tidak perlu.

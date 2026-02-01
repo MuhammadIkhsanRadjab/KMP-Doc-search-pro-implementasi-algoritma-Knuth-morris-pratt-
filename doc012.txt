@@ -1,0 +1,3 @@
+Sebuah lembaga kursus menyimpan materi pelajaran, soal latihan, dan kunci jawaban dalam bentuk dokumen digital. Ketika instruktur ingin memperbarui soal ujian, ia perlu mencari contoh pertanyaan lama yang membahas konsep tertentu. Sayangnya, koleksi dokumen yang terus bertambah membuat instruktur kesulitan menemukan soal yang tepat hanya dengan melihat nama file.
+
+Untuk memperbaiki alur kerja, lembaga tersebut mengembangkan fitur pencarian isi dokumen pada sistem manajemen materi. Instruktur cukup memasukkan kata kunci seperti nama topik atau istilah teknis, lalu sistem akan menampilkan daftar dokumen yang relevan. Dengan cara ini, pembuatan materi baru menjadi lebih cepat karena instruktur dapat memanfaatkan kembali soal-soal yang pernah disusun sebelumnya.

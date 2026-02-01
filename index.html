@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KMP Doc-Search Pro</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script defer src="{{ url_for('static', filename='script.js') }}"></script>
+</head>
+<body data-mode="{{ mode | default('folder') }}">
+  <h1>Pencarian Dokumen KMP</h1>
+
+  <div class="layout-container">
+    <div class="panel-kiri">
+  <h2>Tentang Aplikasi</h2>
+  <p>
+    Aplikasi ini menggunakan algoritma <strong>Knuth–Morris–Pratt (KMP)</strong> untuk pencocokan pola teks yang sangat efisien.
+  </p>
+</div>
+
+    <div class="panel-kanan">
+      <div class="tab-header">
+        <button class="tab-button active" id="btn-folder">Folder Dokumen</button>
+        <button class="tab-button" id="btn-upload">File Unggahan</button>
+      </div>
+
+      <div class="tab-content">
+        <div id="tab-folder">
+          <form method="post" action="/search">
+            <input type="hidden" name="mode" value="folder">
+            <label for="keyword-folder-2">Kata Kunci</label>
+            <input id="keyword-folder-2" type="text" name="keyword" value="{{ keyword }}" placeholder="Cari dokumen...">
+            <button type="submit">Mulai Pencarian</button>
+          </form>
+
+          {% if mode == 'folder' and keyword %}
+            <h3>Hasil: "{{ keyword }}"</h3>
+            {% if results %}
+              <ul>{% for item in results %}
+              <li>
+                <strong class="file-link" data-filename="{{ item.file }}" data-keyword="{{ keyword }}">{{ item.file }}</strong>
+                <span class="badge">{{ item.count }} hits</span>
+                <div class="snippet">{{ item.snippet | safe }}</div>
+              </li>
+              {% endfor %}</ul>
+
+              {% if sisa_results %}
+                <div id="more-results" class="hidden">
+                  <ul>{% for item in sisa_results %}
+                  <li>
+                    <strong class="file-link" data-filename="{{ item.file }}" data-keyword="{{ keyword }}">{{ item.file }}</strong>
+                    <span class="badge badge-secondary">{{ item.count }} hits</span>
+                    <div class="snippet">{{ item.snippet | safe }}</div>
+                  </li>
+                  {% endfor %}</ul>
+                </div>
+                <div class="others-info-box">
+                  <p id="others-text">Ditemukan di {{ sisa_results|length }} dokumen lainnya.</p>
+                  <button type="button" class="btn-link" id="btn-toggle">Lihat Semua ↓</button>
+                </div>
+              {% endif %}
+            {% else %}
+              <p class="no-result">Kata kunci tidak ditemukan.</p>
+            {% endif %}
+          {% endif %}
+        </div>
+
+        <div id="tab-upload" class="hidden">
+          <form method="post" action="/upload-search" enctype="multipart/form-data">
+            <label for="upload-file" class="file-label">Pilih File (.txt)</label>
+            <input id="upload-file" type="file" name="file" accept=".txt" class="file-input">
+            <label for="keyword-upload">Kata Kunci</label>
+            <input id="keyword-upload" type="text" name="keyword" placeholder="Cari di file ini...">
+            <button type="submit">Cari di Unggahan</button>
+          </form>
+
+          {% if mode == 'upload' and upload_filename %}
+            <h3>Hasil Unggahan:</h3>
+            <div class="upload-result-box">
+                <strong class="file-link" data-filename="{{ upload_filename }}" data-keyword="{{ keyword }}">{{ upload_filename }}</strong>
+                <span class="badge">{{ upload_count }} hits</span>
+                <div class="snippet upload-snippet-container">{{ upload_snippet | safe }}</div>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="previewModal" class="modal hidden" role="dialog" aria-labelledby="modalTitle" aria-hidden="true">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 id="modalTitle">Judul</h3>
+        <span class="close-btn" aria-label="Tutup">&times;</span>
+      </div>
+      <div class="modal-body">
+        <div id="modalBodyText"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

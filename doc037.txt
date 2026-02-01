@@ -1,0 +1,3 @@
+Di sebuah lembaga pengujian bahasa, hasil tes peserta direkam dalam dokumen laporan yang memuat nilai dan komentar penguji. Ketika lembaga ingin meningkatkan kualitas umpan balik, mereka perlu meninjau kembali komentar yang pernah diberikan pada peserta dengan profil tertentu. Mencari komentar itu secara manual akan memakan waktu, terutama jika jumlah peserta sangat banyak.
+
+Sistem pencarian berbasis isi dokumen memungkinkan staf memasukkan kata kunci yang sering muncul dalam komentar, seperti "pengucapan", "kosakata", atau "struktur kalimat". Dokumen yang memuat kata-kata ini dapat dianalisis untuk melihat pola umpan balik yang diberikan. Berdasarkan analisis tersebut, lembaga dapat menyusun panduan penilaian yang lebih konsisten.

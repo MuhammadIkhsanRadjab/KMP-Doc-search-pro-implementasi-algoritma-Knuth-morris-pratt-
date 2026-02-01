@@ -1,0 +1,3 @@
+Sebuah tim dokumentasi perangkat lunak menyimpan panduan instalasi, manual pengguna, dan catatan perubahan versi dalam bentuk dokumen digital. Ketika merilis versi baru, mereka perlu memastikan bahwa semua perubahan fitur sudah tercatat di dokumentasi. Mencari satu per satu dokumen tanpa bantuan pencarian isi akan memakan waktu yang sangat lama, terutama jika proyek telah berjalan bertahun-tahun.
+
+Dengan sistem pencarian teks, anggota tim dapat memasukkan nama fitur atau istilah teknis tertentu untuk menemukan dokumen yang perlu diperbarui. Mereka juga dapat memeriksa apakah ada penjelasan yang tumpang tindih atau sudah tidak relevan lagi. Hasilnya, dokumentasi perangkat lunak menjadi lebih terstruktur dan mudah diikuti oleh pengguna akhir.

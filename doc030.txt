@@ -1,0 +1,3 @@
+Di sebuah kantor konsultan pajak, aturan perpajakan dan interpretasinya disimpan dalam berbagai dokumen referensi. Setiap tahun, peraturan mengalami perubahan yang perlu dipahami dan diterapkan dengan cepat. Konsultan sering membutuhkan contoh kasus yang pernah mereka susun untuk klien lain dengan situasi serupa.
+
+Sistem pencarian dokumen yang memanfaatkan kata kunci di dalam teks memungkinkan konsultan memasukkan istilah teknis, jenis pajak, atau nomor peraturan tertentu. Dokumen yang mengandung kata tersebut akan muncul di hasil pencarian, sehingga konsultan dapat mengakses referensi yang dibutuhkan dengan lebih efisien. Ini membantu mereka memberikan nasihat yang akurat dan cepat kepada klien.

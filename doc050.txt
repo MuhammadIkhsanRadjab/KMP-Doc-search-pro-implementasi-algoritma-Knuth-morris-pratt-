@@ -1,0 +1,3 @@
+Sebuah perusahaan energi menyimpan laporan inspeksi peralatan dalam dokumen digital yang disusun setelah setiap kunjungan lapangan. Laporan tersebut mencatat kondisi teknis, potensi bahaya, dan rekomendasi perbaikan. Ketika terjadi gangguan pada satu unit peralatan, tim teknis perlu meninjau kembali laporan inspeksi sebelumnya untuk mencari petunjuk.
+
+Sistem pencarian isi dokumen memungkinkan tim memasukkan kata kunci seperti nama peralatan, lokasi instalasi, atau jenis kerusakan. Dokumen yang relevan akan muncul di hasil pencarian sehingga analisis penyebab gangguan dapat dilakukan lebih cepat. Hal ini membantu perusahaan mengurangi waktu henti operasi dan meningkatkan keselamatan kerja.

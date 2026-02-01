@@ -1,0 +1,3 @@
+Di sebuah lembaga pelatihan daring, materi video biasanya dilengkapi dengan transkrip dalam bentuk dokumen teks. Peserta yang ingin mengulang penjelasan tertentu terkadang lebih memilih membaca transkrip untuk mencari bagian yang mereka butuhkan. Namun, tanpa fitur pencarian isi, mereka harus menggulir dokumen dari awal hingga akhir.
+
+Dengan sistem pencarian berbasis kata kunci, peserta dapat memasukkan istilah teknis atau kalimat kunci yang mereka ingat. Sistem kemudian akan menyoroti bagian transkrip yang mengandung kata tersebut, sehingga peserta bisa langsung melompat ke bagian yang relevan. Cara ini membuat proses belajar menjadi lebih efisien dan terarah.

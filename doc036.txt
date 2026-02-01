@@ -1,0 +1,3 @@
+Sebuah studio desain grafis menyimpan konsep desain, brief klien, dan catatan revisi dalam dokumen digital. Ketika menerima proyek baru, desainer ingin mencari referensi dari pekerjaan lama yang memiliki gaya atau kebutuhan serupa. Namun, penamaan file yang kreatif kadang menyulitkan mereka menemukan dokumen yang tepat.
+
+Dengan fitur pencarian teks, desainer dapat memasukkan kata kunci yang berkaitan dengan jenis proyek, warna dominan, atau tema visual yang pernah digunakan. Sistem akan menampilkan dokumen yang mengandung kata-kata tersebut di dalam penjelasan brief atau catatan revisi. Ini membantu tim menemukan inspirasi yang relevan tanpa harus menelusuri semua proyek satu per satu.

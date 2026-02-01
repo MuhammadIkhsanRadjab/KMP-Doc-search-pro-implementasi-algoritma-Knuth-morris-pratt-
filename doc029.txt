@@ -1,0 +1,3 @@
+Sebuah perusahaan manufaktur menyimpan prosedur operasi standar dalam bentuk dokumen digital yang diakses oleh karyawan di berbagai pabrik. Ketika terjadi insiden, tim keselamatan kerja harus meninjau kembali prosedur yang berlaku untuk mengetahui apakah sudah diikuti dengan benar. Menelusuri dokumen prosedur tanpa bantuan pencarian bisa memakan waktu, terutama jika jumlahnya sangat banyak.
+
+Dengan fitur pencarian berbasis isi dokumen, tim keselamatan dapat memasukkan kata kunci yang berkaitan dengan jenis mesin, lokasi kerja, atau langkah prosedur tertentu. Sistem kemudian akan menampilkan bagian dokumen yang relevan untuk dianalisis. Hal ini mempercepat proses investigasi dan membantu perusahaan meningkatkan standar keselamatan kerja.

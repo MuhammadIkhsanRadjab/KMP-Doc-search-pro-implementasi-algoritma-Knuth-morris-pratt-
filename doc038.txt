@@ -1,0 +1,3 @@
+Sebuah komunitas penulis menyimpan kumpulan cerpen dan puisi dalam dokumen digital yang diunggah anggota. Setiap karya memiliki gaya dan tema yang berbeda-beda, mulai dari kehidupan sehari-hari hingga fiksi ilmiah. Ketika akan menyusun antologi, editor komunitas perlu mencari karya yang mengandung tema tertentu untuk dimasukkan ke dalam buku.
+
+Dengan memanfaatkan sistem pencarian kata kunci, editor dapat memasukkan kata atau frasa yang berkaitan dengan tema yang diinginkan, misalnya "perjalanan", "laut", atau "masa kecil". Sistem akan mencari kata tersebut di dalam isi dokumen sehingga editor dapat menyeleksi karya dengan lebih cepat. Hal ini mempermudah proses kurasi antologi dari ratusan naskah yang tersedia.
